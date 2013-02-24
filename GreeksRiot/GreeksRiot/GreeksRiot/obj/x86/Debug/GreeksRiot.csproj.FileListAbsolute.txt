@@ -1,6 +1,0 @@
-C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot\GreeksRiot\GreeksRiot\bin\x86\Debug\GreeksRiot.exe
-C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot\GreeksRiot\GreeksRiot\bin\x86\Debug\GreeksRiot.pdb
-C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot\GreeksRiot\GreeksRiot\obj\x86\Debug\GreeksRiot.csprojResolveAssemblyReference.cache
-C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot\GreeksRiot\GreeksRiot\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot\GreeksRiot\GreeksRiot\obj\x86\Debug\GreeksRiot.exe
-C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot\GreeksRiot\GreeksRiot\obj\x86\Debug\GreeksRiot.pdb
