@@ -44,6 +44,12 @@
   <ItemGroup>
     <Folder Include="in such folders we add\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Level extension Lib\Level extension Lib.csproj">
+      <Project>{00E9F7B4-7849-4D2B-B78D-312EA02D6F19}</Project>
+      <Name>Level extension Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
   <!--  To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
