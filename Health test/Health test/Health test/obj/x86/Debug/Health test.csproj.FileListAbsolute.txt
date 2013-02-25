@@ -1,0 +1,7 @@
+C:\Users\Marios\Documents\GitHub\Assignment\Health test\Health test\Health test\bin\x86\Debug\Health test.exe
+C:\Users\Marios\Documents\GitHub\Assignment\Health test\Health test\Health test\bin\x86\Debug\Health test.pdb
+C:\Users\Marios\Documents\GitHub\Assignment\Health test\Health test\Health test\obj\x86\Debug\Health test.csprojResolveAssemblyReference.cache
+C:\Users\Marios\Documents\GitHub\Assignment\Health test\Health test\Health test\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Marios\Documents\GitHub\Assignment\Health test\Health test\Health test\obj\x86\Debug\Health test.exe
+C:\Users\Marios\Documents\GitHub\Assignment\Health test\Health test\Health test\obj\x86\Debug\Health test.pdb
+C:\Users\Marios\Documents\GitHub\Assignment\Health test\Health test\Health test\bin\x86\Debug\Content\HealthBar2.xnb
