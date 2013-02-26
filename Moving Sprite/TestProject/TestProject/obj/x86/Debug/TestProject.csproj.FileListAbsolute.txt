@@ -1,0 +1,7 @@
+d:\my documents\visual studio 2010\Projects\TestProject\TestProject\TestProject\bin\x86\Debug\TestProject.exe
+d:\my documents\visual studio 2010\Projects\TestProject\TestProject\TestProject\bin\x86\Debug\TestProject.pdb
+d:\my documents\visual studio 2010\Projects\TestProject\TestProject\TestProject\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\TestProject\TestProject\TestProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+d:\my documents\visual studio 2010\Projects\TestProject\TestProject\TestProject\obj\x86\Debug\TestProject.exe
+d:\my documents\visual studio 2010\Projects\TestProject\TestProject\TestProject\obj\x86\Debug\TestProject.pdb
+d:\my documents\visual studio 2010\Projects\TestProject\TestProject\TestProject\bin\x86\Debug\Content\mySprite.xnb
