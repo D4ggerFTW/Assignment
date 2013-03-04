@@ -18,6 +18,7 @@ namespace GreeksRiot
     {
         GraphicsDeviceManager graphics; // we do our graphics with it...    
         SpriteBatch spriteBatch;    // 2D rendering??
+        Level_Library.MyLevels level;
 
         /*the constructor*/
         public Riot()
@@ -49,6 +50,16 @@ namespace GreeksRiot
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
+            level = this.Content.Load<Level_Library.MyLevels>("level2");
+
+            for (int row = 0; row < level.Rows; row++)
+            {
+                for (int column = 0; column < level.Columns; column++)
+                {
+                    Console.Write(level.GetValue(row, column));
+                }
+                Console.WriteLine();
+            }
         }
 
         /// <summary>

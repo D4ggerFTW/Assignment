@@ -42,13 +42,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="in such folders we add\" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\..\Level extension Lib\Level extension Lib.csproj">
       <Project>{00E9F7B4-7849-4D2B-B78D-312EA02D6F19}</Project>
       <Name>Level extension Lib</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="level2.route">
+      <Name>level2</Name>
+      <Processor>ContentProcessor1</Processor>
+      <Importer>LVLImporter</Importer>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
   <!--  To modify your build process, add your task inside one of the targets below and uncomment it. 

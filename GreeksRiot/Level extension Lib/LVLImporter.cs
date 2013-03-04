@@ -20,7 +20,7 @@ namespace Level_extension_Lib
     /// ContentImporter attribute to specifies the correct file
     /// extension, display name, and default processor for this importer.
     /// </summary>
-    [ContentImporter(".route", DisplayName = "Level Importer", DefaultProcessor = "Level Processor")]
+    [ContentImporter(".route", DisplayName = "LVL Importer", DefaultProcessor = "ContentProcessor1")]
     public class LVLImporter : ContentImporter<TImport>
     {
         public override TImport Import(string filename, ContentImporterContext context)

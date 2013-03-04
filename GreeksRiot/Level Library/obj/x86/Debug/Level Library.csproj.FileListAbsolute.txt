@@ -1,0 +1,6 @@
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot\Level Library\bin\x86\Debug\Level Library.dll
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot\Level Library\bin\x86\Debug\Level Library.pdb
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot\Level Library\obj\x86\Debug\Level Library.csprojResolveAssemblyReference.cache
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot\Level Library\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot\Level Library\obj\x86\Debug\Level Library.dll
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot\Level Library\obj\x86\Debug\Level Library.pdb
