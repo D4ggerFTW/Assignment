@@ -16,3 +16,21 @@
 \\10.24.71.54\public\D4ggerFTW(arhs) (From Public)\Team Project\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\arrowtower.png
 \\10.24.71.54\public\D4ggerFTW(arhs) (From Public)\Team Project\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\bullet4.png
 \\10.24.71.54\public\D4ggerFTW(arhs) (From Public)\Team Project\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\HealthBar2.png
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\protester.xnb
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\grass.xnb
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\path.xnb
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\arrowtower.xnb
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\HealthBar2.xnb
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\protester.png
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\grass.png
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\path.png
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\arrowtower.png
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\bullet4.png
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\HealthBar2.png
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\GreeksRiot2.exe
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\GreeksRiot2.pdb
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\obj\x86\Debug\GreeksRiot2.csprojResolveAssemblyReference.cache
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\obj\x86\Debug\GreeksRiot2.exe
+C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\obj\x86\Debug\GreeksRiot2.pdb

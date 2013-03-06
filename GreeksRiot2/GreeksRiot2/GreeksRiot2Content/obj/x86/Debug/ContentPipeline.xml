@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>\\10.24.71.54\Public\D4ggerFTW(arhs) (From Public)\Team Project\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\protester.xnb</Output>
-      <Time>2013-03-06T00:50:28.2475926+02:00</Time>
+      <Output>C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\protester.xnb</Output>
+      <Time>2013-03-06T07:25:14.1445396+02:00</Time>
     </Item>
     <Item>
       <Source>grass.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>\\10.24.71.54\Public\D4ggerFTW(arhs) (From Public)\Team Project\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\grass.xnb</Output>
-      <Time>2013-03-06T02:38:24.8240316+02:00</Time>
+      <Output>C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2013-03-06T07:25:13.9235585+02:00</Time>
     </Item>
     <Item>
       <Source>path.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>\\10.24.71.54\Public\D4ggerFTW(arhs) (From Public)\Team Project\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\path.xnb</Output>
-      <Time>2013-03-06T02:38:27.3891783+02:00</Time>
+      <Output>C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\path.xnb</Output>
+      <Time>2013-03-06T07:25:14.1425382+02:00</Time>
     </Item>
     <Item>
       <Source>arrowtower.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>\\10.24.71.54\public\D4ggerFTW(arhs) (From Public)\Team Project\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\arrowtower.xnb</Output>
-      <Time>2013-03-06T04:13:46.9233169+02:00</Time>
+      <Output>C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\arrowtower.xnb</Output>
+      <Time>2013-03-06T07:25:13.9138026+02:00</Time>
     </Item>
     <Item>
       <Source>bullet4.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>\\10.24.71.54\public\D4ggerFTW(arhs) (From Public)\Team Project\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\bullet.xnb</Output>
-      <Time>2013-03-06T05:08:46.1470217+02:00</Time>
+      <Output>C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2013-03-06T07:25:13.9148011+02:00</Time>
     </Item>
     <Item>
       <Source>HealthBar2.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>\\10.24.71.54\public\D4ggerFTW(arhs) (From Public)\Team Project\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\HealthBar2.xnb</Output>
-      <Time>2013-03-06T06:54:10.2267384+02:00</Time>
+      <Output>C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\HealthBar2.xnb</Output>
+      <Time>2013-03-06T07:25:13.8127814+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -61,10 +61,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>\\10.24.71.54\public\D4ggerFTW(arhs) (From Public)\Team Project\GreeksRiot2\GreeksRiot2\GreeksRiot2Content\</RootDirectory>
-      <LoggerRootDirectory>\\10.24.71.54\public\D4ggerFTW(arhs) (From Public)\Team Project\GreeksRiot2\GreeksRiot2\GreeksRiot2\</LoggerRootDirectory>
-      <IntermediateDirectory>\\10.24.71.54\public\D4ggerFTW(arhs) (From Public)\Team Project\GreeksRiot2\GreeksRiot2\GreeksRiot2Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>\\10.24.71.54\public\D4ggerFTW(arhs) (From Public)\Team Project\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Marios\Documents\GitHub\Assignment\GreeksRiot2\GreeksRiot2\GreeksRiot2\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -93,7 +93,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2013-03-06T00:01:28.3707254+02:00</Value>
+        <Value>2013-02-15T05:34:43.0251423+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
