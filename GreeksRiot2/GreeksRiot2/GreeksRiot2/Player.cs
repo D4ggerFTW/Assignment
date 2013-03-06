@@ -16,14 +16,14 @@ namespace GreeksRiot2
 {
     class Player
     {
-        private int money = 50;
-        private int lives;
-        private int initlives;
-        private List<Tower> towers = new List<Tower>();
+        private int money = 50; // Money to be spent on towers
+        private int lives; // Current life
+        private int initlives; // Starting life
+        private List<Tower> towers = new List<Tower>(); // Towers the player has
 
         private MouseState mouseState; // Mouse state for the current frame
         private MouseState oldState; // Mouse state for the previous frame
-        private Level level;
+        private Level level; //A reference of the level
 
         private int cellX;
         private int cellY;
@@ -31,7 +31,7 @@ namespace GreeksRiot2
         private int tileX;
         private int tileY;
 
-        private Texture2D bulletTexture;
+        private Texture2D bulletTexture; // textures
         private Texture2D towerTexture;
         private Texture2D healthBarTexture;
         public void Update(GameTime gameTime, List<Protester> enemies)

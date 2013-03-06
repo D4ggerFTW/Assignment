@@ -19,36 +19,43 @@ namespace GreeksRiot2
         private int numOfEnemies; // Number of enemies to spawn
         private int waveNumber; // What wave is this?
         private float spawnTimer = 0; // When should we spawn an enemy
-        private int enemiesSpawned = 0; // How mant enemies have spawned
-        private Player player;
+        private int enemiesSpawned = 0; // How many enemies have spawned
+        private Player player; // Reference of the player
         private bool enemyAtEnd; // Has an enemy reached the end of the path?
         private bool spawningEnemies; // Are we still spawing enemies?
         private Level level; // A reference of the level
         private Texture2D enemyTexture; // A texture for the enemies
         public List<Protester> enemies = new List<Protester>(); // List of enemies
-
+		
+		//This returns whether the round is over 
         public bool RoundOver
         {
             get
             {
-                return enemies.Count == 0 && enemiesSpawned == numOfEnemies;
+                return enemies.Count == 0 && enemiesSpawned == numOfEnemies; //bool
             }
         }
+		
+		//Returns round number
         public int RoundNumber
         {
             get { return waveNumber; }
         }
-
+		
+		//Getter/setter for the enemy reaching the end of the pathway
         public bool EnemyAtEnd
         {
             get { return enemyAtEnd; }
             set { enemyAtEnd = value; }
         }
+		
+		//the list containing the enemies spawned
         public List<Protester> Enemies
         {
             get { return enemies; }
         }
-
+		
+		//Constructor
         public Wave(int waveNumber, int numOfEnemies, Level level, Texture2D enemyTexture, Player player)
         {
             this.waveNumber = waveNumber;
@@ -57,23 +64,26 @@ namespace GreeksRiot2
             this.level = level;
             this.enemyTexture = enemyTexture;
         }
-
+		
+		//Used when spawning a new protestor.
         private void AddEnemy()
         {
             Protester enemy = new Protester(enemyTexture,
             level.Waypoints.Peek(), 50, 2, 0.5f);
-            enemy.SetWaypoints(level.Waypoints);
-            enemies.Add(enemy);
+            enemy.SetWaypoints(level.Waypoints); //sets waypoints
+            enemies.Add(enemy); //adds enemy to list
             spawnTimer = 0;
 
-            enemiesSpawned++;
+            enemiesSpawned++; //increase counter
         }
-
+		
+		//Bool for beggining of round
         public void Start()
         {
             spawningEnemies = true;
         }
-
+		
+		//Update logic
         public void Update(GameTime gameTime)
         {
             if (enemiesSpawned == numOfEnemies)
@@ -93,9 +103,9 @@ namespace GreeksRiot2
                     if (enemy.CurrentHealth > 0) // Enemy is at the end
                     {
                         enemyAtEnd = true;
-                        player.DamageHealth(enemy.Damage);
+                        player.DamageHealth(enemy.Damage); //Removes lives from player
                     }
-                    player.GiveBounty(enemies[i].BountyGiven);
+                    player.GiveBounty(enemies[i].BountyGiven); //Gives cash to player.
                     enemies.Remove(enemy);
                     i--;
                 }
@@ -105,7 +115,7 @@ namespace GreeksRiot2
         public void Draw(SpriteBatch spriteBatch)
         {
             foreach (Protester enemy in enemies)
-                enemy.Draw(spriteBatch);
+                enemy.Draw(spriteBatch); //Draw the protesters
         }
     }
 }
